@@ -1,8 +1,10 @@
 
-<h1>Meu portifolio</h1>
-<div class="img" >
+<h1 color=blue>Meu portifolio</h1>
+<div  >
     
-<img id='indentifier' height="100px" id="m1" src="./img/htm.png">
-<img style={margin-top:'10px'}height="120px" id="m2" src="./img/css.png">
-<img height="100px"  padding-top="10px" id="m3" src="./img/js-removebg-preview.png">
-<img height="100px"  padding-top="10px" id="m4" src="./img/py-removebg-preview.png"></div>
+  
+<img  height='150px' id="m1" src="./img/htm.png">
+<img  id="m2" height='175px' src="./img/css.png">
+<img    id="m4"  height='130px' src="./img/py-removebg-preview.png">
+<img    id="m3" height='130px' src="./img/js-removebg-preview.png">
+</div>
